@@ -13,12 +13,12 @@ also it compares time of execution with no recursive methods
 
 This implementations was made for: 
 
-[The Odin Project](https://www.theodinproject.com)
-[Ruby Recursion](https://www.theodinproject.com/lessons/ruby-recursion)
+-[The Odin Project](https://www.theodinproject.com)
+-[Ruby Recursion](https://www.theodinproject.com/lessons/ruby-recursion)
 
 ## Author
 
 👤 **Luis Hernandez Coding**
 
-* Github: [@LuisHernandezCoding](
+* Github: [@LuisHernandezCoding](https://github.com/LuisHernandezCoding)
   
