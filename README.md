@@ -13,9 +13,8 @@ also it compares time of execution with no recursive methods
 
 This implementations was made for: 
 
-
-The Odin Project:
-link: [https://www.theodinproject.com/lessons/ruby-recursion](Ruby Recursion)
+[The Odin Project](https://www.theodinproject.com)
+[Ruby Recursion](https://www.theodinproject.com/lessons/ruby-recursion)
 
 ## Author
 
