@@ -33,7 +33,7 @@ comparison = Time.now - time
 
 # check the time difference and print it the fastest way
 puts 'Test 1: '
-puts "true by #{(old_comparsion / comparison)} seconds" if old_comparsion > comparison
+puts "true by #{old_comparsion / comparison} seconds" if old_comparsion > comparison
 puts "false by #{old_comparsion / comparison} seconds" if old_comparsion < comparison
 
 # Define a recursive function that finds the factorial of a number.
